@@ -1,4 +1,4 @@
-# memorygame
+# Simon Game
 A  Memory Game , popularly known as Simon Game. Enjoy and boost your memory power.
 
 Installation:
