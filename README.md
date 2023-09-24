@@ -6,4 +6,4 @@ Installation:
 2.Open in an editor.
 3.Run the index.html file.
 
-Play the game now : https://hari-cr7.github.io/memorygame/
+Play the game now : https://hari18102003.github.io/memorygame/
